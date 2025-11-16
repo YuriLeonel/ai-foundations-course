@@ -12,9 +12,7 @@ This repository documents my learning journey through the AI Foundations course 
 
 ### 🎓 Course Certification
 
-![Certificate](assets/Certificate.pdf)
-
-View my [course certificate](assets/Certificate.pdf) demonstrating completion of all modules.
+View my [course certificate](assets/Certificate.pdf), which demonstrates completion of all modules.
 
 ## 📖 Course Topics
 
