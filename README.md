@@ -213,7 +213,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Yuri**
 
 - LinkedIn: [Connect with me](https://linkedin.com/in/yurileonel)
-- GitHub: [@yourusername](https://github.com/YuriLeonel)
+- GitHub: [@YuriLeonel](https://github.com/YuriLeonel)
 
 ## 🙏 Acknowledgments
 
