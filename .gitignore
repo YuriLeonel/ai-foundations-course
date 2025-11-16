@@ -105,27 +105,6 @@ build/
 dist/
 *.egg-info/
 
-# Data files (optional, uncomment if needed)
-# *.csv
-# *.json
-# *.xlsx
-
-# Model files (optional, uncomment if needed)
-# *.pkl
-# *.h5
-# *.pt
-# *.pth
-
-# Output files
-output/
-results/
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.pdf
-!assets/certificate.pdf
-
 # Secrets and credentials
 .env
 .env.local
